@@ -1,0 +1,12 @@
+div{width: 21%;
+    background-color: rgb(52, 172, 190);
+    border:rgb(236, 236, 19) 30px solid;border-radius: 35px;
+    float: left;color: blueviolet;
+    padding: 5px;
+}
+    
+    h1{text-align: center;color: rgb(47, 237, 9);background-color: rgb(150, 86, 86);
+    }
+    h4{text-align: center;color: rgb(233, 56, 56);}
+    img{width: 100%;
+    height: 300px;}
